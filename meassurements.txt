@@ -1,0 +1,53 @@
+mcMichaela meassurements 1.11.2017:
+bicák - 27
+prsa - 90
+pas - 73
+boky - 103.5
+stehno - 55.5
+
+mcDzindra meassurements:
+bicák - 34.5
+prsa - 101
+pas - 87
+boky - 97
+stehno - 54
+
+
+mcMichaela 26.12.2017:
+bicák - 27.5
+prsa - 90
+pas - 73.5
+boky - 103
+stehno - 54
+
+mcDzindra: 
+bicák - 36
+prsa - 102
+pas - 86
+boky - 95
+stehno - 55
+
+
+mcMichaela 6.3.2018:
+bicák - 28
+prsa - 89
+pas - 73
+boky - 103
+stehno - 53
+
+
+
+25.10.2018
+m
+bicák - 27
+prsa - 88
+pas - 72
+boky - 101
+stehno - 52
+
+j
+bicák - 34
+prsa - 99
+pas - 85
+boky - 95
+stehno - 55
